@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WEB-app-SaEh/static/css/main.9aef66c9.chunk.css",
+    "main.js": "/WEB-app-SaEh/static/js/main.e1d12ee8.chunk.js",
+    "main.js.map": "/WEB-app-SaEh/static/js/main.e1d12ee8.chunk.js.map",
+    "runtime-main.js": "/WEB-app-SaEh/static/js/runtime-main.6e338b8b.js",
+    "runtime-main.js.map": "/WEB-app-SaEh/static/js/runtime-main.6e338b8b.js.map",
+    "static/js/2.c934a55e.chunk.js": "/WEB-app-SaEh/static/js/2.c934a55e.chunk.js",
+    "static/js/2.c934a55e.chunk.js.map": "/WEB-app-SaEh/static/js/2.c934a55e.chunk.js.map",
+    "static/js/3.65df8422.chunk.js": "/WEB-app-SaEh/static/js/3.65df8422.chunk.js",
+    "static/js/3.65df8422.chunk.js.map": "/WEB-app-SaEh/static/js/3.65df8422.chunk.js.map",
+    "index.html": "/WEB-app-SaEh/index.html",
+    "static/css/main.9aef66c9.chunk.css.map": "/WEB-app-SaEh/static/css/main.9aef66c9.chunk.css.map",
+    "static/js/2.c934a55e.chunk.js.LICENSE.txt": "/WEB-app-SaEh/static/js/2.c934a55e.chunk.js.LICENSE.txt",
+    "static/media/FEKT_logo_CZ.4b4ae534.png": "/WEB-app-SaEh/static/media/FEKT_logo_CZ.4b4ae534.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e338b8b.js",
+    "static/js/2.c934a55e.chunk.js",
+    "static/css/main.9aef66c9.chunk.css",
+    "static/js/main.e1d12ee8.chunk.js"
+  ]
+}
