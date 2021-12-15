@@ -1,0 +1,21 @@
+.NavBar-logo {
+    height: 7vmin;
+    pointer-events: none;
+    position: absolute;
+    top: 15px;
+    left: 5px;  
+}
+
+.NavBar-header {
+    background-color: hsl(0, 0%, 100%);
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #000000;
+}
+
+
+  

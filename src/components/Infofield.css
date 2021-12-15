@@ -1,0 +1,33 @@
+.InfoHeader
+{
+    background-color: rgb(255, 255, 255);
+    min-height: 25vh;
+    min-width: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #000000; 
+    
+}
+.Average
+{
+    position: static;
+    left: 5;
+}
+.Efective
+{
+    position: static;
+    right: 5;
+}
+.text
+{
+    font-size: calc(10px + 2vmin);
+    color: #000000;
+}
+.math
+{
+    font-size: calc(10px + 2vmin);
+    color: #000000;
+}

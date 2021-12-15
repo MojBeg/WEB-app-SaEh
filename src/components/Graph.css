@@ -1,0 +1,18 @@
+.Graph
+{
+    background-color: hsl(220, 27%, 94%);
+    min-height: 12vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #000000;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.Graph-position
+{
+    Left: 10px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,12 @@
+.SettingMenu {
+    background-color: hsl(0, 0%, 35%);
+    min-height: 30vh;
+    min-width: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #000000;
+    margin-bottom: 15px;
+}
